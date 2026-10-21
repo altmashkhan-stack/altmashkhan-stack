@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Altmash Khan, a Web Developer and Co-Founder of GalaxyMedia.inn, passionate about building modern websites, transforming ideas into responsive, user-friendly, and visually engaging websites. and creating impactful digital experiences.
+Hi, I’m Altmash Khan, a Web Developer and Co-Founder of GalaxyMedia.inn, passionate about building modern websites, transforming ideas into responsive, user-friendly, and visually engaging websites. and creating impactful digital experiences.<br>
 Co-Founder at GalaxyMedia.inn — Working at the intersection of technology, creativity, and digital marketing to help businesses strengthen their online presence and growth.
 
 
